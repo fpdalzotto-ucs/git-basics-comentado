@@ -21,7 +21,7 @@ git init [nome-do-projeto]
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação:Inicializa um repositorio zerado onde rodei o comando"
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -45,8 +45,8 @@ git clone [url]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [X] 1. `git init [nome-do-projeto]`
+- [X] 2. `git clone [url]`
 
 ---
 
