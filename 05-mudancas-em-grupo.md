@@ -21,7 +21,7 @@ git branch
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: Mostra em qual branch estou**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -33,7 +33,7 @@ git branch
 git branch [nome-do-branch]
 ```
 
-**O que faz:**
+**O que faz: Cria um branch com o nome definido**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
@@ -53,7 +53,7 @@ git switch -c [nome-do-branch]
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: Copio a branch que estou e cria uma nova com o nome que defini**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -69,8 +69,8 @@ git merge [nome-do-branch]
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
-
+**Quando usar / observação: testeeeeeeeeeeee**
+Aaaaaaaaaaaa
 <!-- TODO: opcional, mas conta ponto. -->
 
 ---
