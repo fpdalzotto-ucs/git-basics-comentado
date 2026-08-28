@@ -21,7 +21,7 @@ git status
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: Ele mostra qual branch estou, e se possui alguma mudança em algum arquivo**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -37,7 +37,7 @@ git diff
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: Ele mostra o que tem alteração em algum arquivo que estava commitado**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -53,7 +53,7 @@ git add [arquivo]
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: adiciona a alteração que foi feita no arquivo para depois poder commitar**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -69,7 +69,7 @@ git diff --staged
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: mostra diferenças do arquivo que alterei e depois dei git add**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -85,7 +85,7 @@ git reset [arquivo]
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: Ele retira o arquivo que dei git add**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -101,7 +101,7 @@ git commit -m "[mensagem descritiva]"
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: Commita as alterações e é informado uma breve explicação do que foi feita**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -109,12 +109,12 @@ git commit -m "[mensagem descritiva]"
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git status`
-- [ ] 2. `git diff`
-- [ ] 3. `git add [arquivo]`
-- [ ] 4. `git diff --staged`
-- [ ] 5. `git reset [arquivo]`
-- [ ] 6. `git commit -m "[mensagem descritiva]"`
+- [X] 1. `git status`
+- [X] 2. `git diff`
+- [X] 3. `git add [arquivo]`
+- [X] 4. `git diff --staged`
+- [X] 5. `git reset [arquivo]`
+- [X] 6. `git commit -m "[mensagem descritiva]"`
 
 ---
 
