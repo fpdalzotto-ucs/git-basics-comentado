@@ -21,7 +21,7 @@ git config --global user.name "[nome]"
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
-**Quando usar / observação:**
+**Quando usar / observação: Para definir o usuario ira dar os commits**
 
 <!-- TODO: opcional, mas conta ponto. -->
 
@@ -33,7 +33,7 @@ git config --global user.name "[nome]"
 git config --global user.email "[endereco-de-email]"
 ```
 
-**O que faz:**
+**O que faz: Para definir o usuario que ira dar os commits**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
 
